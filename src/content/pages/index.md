@@ -12,10 +12,8 @@ seo:
 content_blocks:
   - _bookshop_name: home/hero
     title: Hi there
-    description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
-    image: /images/hero/hero-image-2.png
+    description: This was edited by Marta while experimenting with CloudCannon :)
+    image: /uploads/img-7073-large.jpg
     image_alt: Reports dashboard
     button:
       text: Try This Free
