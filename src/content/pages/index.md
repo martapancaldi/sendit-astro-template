@@ -14,7 +14,7 @@ content_blocks:
     title: Hi there
     description: This was edited by Marta while experimenting with CloudCannon :)
     image: /uploads/img-7073-large.jpg
-    image_alt: Reports dashboard
+    image_alt: Sleepy Drusi
     button:
       text: Try This Free
       link: /signup/
